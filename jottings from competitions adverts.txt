@@ -1,0 +1,30 @@
+* Organized by Datican
+* focus is AI and data science skill but with special application in Medicine.
+* focus is to boost Africa usage
+* Africa, particularly, Nigeria has Talented individuals
+* Mentorship is available after the program
+* For student in Lagos State University, Redeemer’s University and The University of Ibadan
+* LASU FIRST
+* The first phase is scheduled for June 2024, for lasu
+* DATICAN COMMITTEE: Professor Funmilayo Olopade of UChicago, Professors Benjamin Aribisala (LASU), Abiodun Adewuya (LASU), Adenike Adeniji-Sofoluwe (UI), Godwin Ogbole (UI), Samson Arekete (RUN), Alex Pearson (UChicago) and Steffen Sammet (UChicago).
+
+
+IMPORTANT POINTS !!!!!!
+* Team of 1 or 2 or 3 with a team name and project name and apply with this  https://datican.org/ucompetition.php. Registration Opens on May 14, 2024 and Closes at 11:59pm on May 21, 2024
+* coding starts in the from June 01 2024 The deadline for submission is June 18, 2024. 
+* create a repository and transfer your code to https://github.com/DATICANUNDERGRADUATES-COMPETITION
+* Artificial Intelligence and (or) data science in medicine
+
+
+Grading points:
+* Codes
+* Software packages ( if any)
+Some of the criteria for assessment are 
+* originality - 
+* potential benefit to humans - 
+* user friendliness - 
+* modularity - 
+
+
+TASK FOR EVERY MEMBERS
+LIST OUT CLEAR CHALLENGED IN THE HEALTH AND MEDICINE SECTOR ESPECIALLY NIGERIA 
