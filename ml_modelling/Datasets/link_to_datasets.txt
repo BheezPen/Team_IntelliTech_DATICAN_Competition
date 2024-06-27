@@ -1,0 +1,1 @@
+Datasets is about 700mb, to avoid using gitLFS, i.e Git Large File Storage, the link to the dataset used to train the dataset from kaggle - https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/data

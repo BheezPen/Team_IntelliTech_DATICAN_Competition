@@ -65,23 +65,6 @@ Download the APK [here](./app-release.apk).
    flutter run
    ```
 
-### File Structure for the App
-
-```
-malaria-detector/
-├── android/
-├── assets/
-│   └── malaria_AI_model.tflite
-├── lib/
-│   ├── main.dart
-│   ├── screens/
-│   │   ├── camera_screen.dart
-│   │   └── home_screen.dart
-│   │   └── result_screen.dart
-├── pubspec.yaml
-└── README.md
-```
-
 ### Usage
 
 1. **Home Screen:**

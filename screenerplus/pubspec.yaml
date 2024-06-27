@@ -1,0 +1,29 @@
+name: screenerplus
+description: A Flutter app for detecting malaria using a microscope lens and ML model.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  provider: ^5.0.0
+  camera: ^0.9.4+5
+  image_picker: ^1.1.2
+  shared_preferences: ^2.2.3
+  path_provider: ^2.1.3
+  permission_handler: ^11.3.1
+  tflite: ^1.1.2
+  tflite_flutter: ^0.10.4
+  image: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/malaria_AI_model.tflite
