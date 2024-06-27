@@ -20,10 +20,10 @@ Our team name is Team IntelliTech.
 
 ## APK
 
-Download the APK [here](./app-release.apk).
+Download the APK [here](./ScreenerPlus_apk_by_Team_IntelliTech/screenerplus.apk).
 
 ## Screenshots
-![image](https://github.com/DATICAN-UNDERGRADUATES-COMPETITION/Team-IntelliTech/assets/58163594/9c7b720a-0653-4b68-8807-36e62f3871fc)
+See ScreenerPlus app [screenshots here](.)
 
 ## Getting Started
 
