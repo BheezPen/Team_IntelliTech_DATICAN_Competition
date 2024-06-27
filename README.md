@@ -23,7 +23,7 @@ Our team name is Team IntelliTech.
 Download the APK [here](./ScreenerPlus_apk_by_Team_IntelliTech/screenerplus.apk).
 
 ## Screenshots
-See ScreenerPlus app [screenshots here](.)
+See ScreenerPlus app [screenshots here](./ScreenerPlus_apk_by_Team_IntelliTech/screenshots/)
 
 ## Getting Started
 
