@@ -5,7 +5,7 @@
 ScreenerPlus is a Flutter application that utilizes a deep learning model to detect malaria from blood smear images. This app allows users to either capture an image using the camera or pick an image from the gallery, process it, and then determine whether the image is positive or negative for malaria.
 
 ## Background
-ScreenerPlus is developed for the NACOS LASU/DATICAN Undergraduates Coding Competition. The focus of this competition is to identify Nigerian youths who will become future leaders in the field of Artificial Intelligence (AI) and Data Science (DS) with special applications in Medicine.
+
 
 ## Team
 Our team name is Team IntelliTech.
@@ -105,7 +105,7 @@ The app includes error handling to manage scenarios where the image cannot be pr
 - The Flutter team for providing the framework.
 - TensorFlow Lite for enabling on-device machine learning.
 - The Python Software Foundation
-- [The Nitional Library of Medicine](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets) for the Datasets
+- [The National Library of Medicine](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets) for the Datasets
 
 
 ---
