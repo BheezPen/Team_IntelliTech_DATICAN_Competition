@@ -32,8 +32,9 @@ Download the APK [here](./screenerplus.apk).
 ## Screenshots
 See ScreenerPlus app [screenshots here](./screenshots/)
 <p align="center">
-   <img alt="App Designs" height="100" width="300" src="/screenshots/IMG-20240627-WA0072.jpg" />
-   <img alt="App Designs" height="100" width="300" src="/screenshots/IMG-20240627-WA0070.jpg" />
+   <img alt="App Designs" height="700" width="300" src="/screenshots/IMG-20240627-WA0072.jpg" />
+   <img alt="App Designs" height="700" width="300" src="/screenshots/IMG-20240627-WA0070.jpg" />
+   <img alt="App Designs" height="700" width="300" src="/screenshots/IMG-20240627-WA0075.jpg" />
 </p>
 
 ## Getting Started
