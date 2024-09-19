@@ -101,7 +101,7 @@ The app includes error handling to manage scenarios where the image cannot be pr
 
 
 ## Acknowledgments
-
+git 
 - The Flutter team for providing the framework.
 - TensorFlow Lite for enabling on-device machine learning.
 - The Python Software Foundation
