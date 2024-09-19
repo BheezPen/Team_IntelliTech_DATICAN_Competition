@@ -1,4 +1,4 @@
-<p align="center"> <img alt="App Design Preview" height="450" width="900" src="./ScreenerPlus_apk_by_Team_IntelliTech/screenshots/screenplus_shots.jpg" /> </p>
+<p align="center"> <img alt="App Design Preview" height="450" width="900" src="./ScreenerPlus_.apk_by_Team_IntelliTech/screenshots/screenplus_shots.jpg" /> </p>
 
 # ScreenerPlus Malaria Detector App
 
