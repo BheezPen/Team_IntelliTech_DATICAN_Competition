@@ -27,7 +27,7 @@ Team members include:
 
 ## APK
 
-Download the APK [here](./screenerplus.apk).
+Download the APK [here](./ScreenerPlus_by_Team_IntelliTech.apk).
 
 ## Screenshots
 See ScreenerPlus app [screenshots here](./screenshots/)
