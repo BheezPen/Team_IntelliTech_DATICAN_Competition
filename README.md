@@ -8,9 +8,15 @@ ScreenerPlus is a Flutter application that utilizes a deep learning model to det
 
 
 ## Team
-Our team name is Team IntelliTech.
+Our team name is Team IntelliTech. 
 
-## Featuresgit push 
+Team members include:
+- Aberejo Habeeblah O.
+- Taofeek Akintude
+- Jafar Li-Hammed
+
+
+## Features 
 
 
 - Capture images using the camera.
@@ -21,13 +27,13 @@ Our team name is Team IntelliTech.
 
 ## APK
 
-Download the APK [here](./ScreenerPlus_apk_by_Team_IntelliTech/screenerplus.apk).
+Download the APK [here](./screenerplus.apk).
 
 ## Screenshots
-See ScreenerPlus app [screenshots here](./ScreenerPlus_apk_by_Team_IntelliTech/screenshots/)
+See ScreenerPlus app [screenshots here](./screenshots/)
 <p align="center">
-   <img alt="App Designs" height="100" width="300" src="/ScreenerPlus_apk_by_Team_IntelliTech/screenshots/IMG-20240627-WA0072.jpg" />
-   <img alt="App Designs" height="100" width="300" src="/ScreenerPlus_apk_by_Team_IntelliTech/screenshots/IMG-20240627-WA0080.jpg" />
+   <img alt="App Designs" height="100" width="300" src="/screenshots/IMG-20240627-WA0072.jpg" />
+   <img alt="App Designs" height="100" width="300" src="/screenshots/IMG-20240627-WA0070.jpg" />
 </p>
 
 ## Getting Started
@@ -43,7 +49,11 @@ See ScreenerPlus app [screenshots here](./ScreenerPlus_apk_by_Team_IntelliTech/s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/DATICAN-UNDERGRADUATES-COMPETITION/Team-IntelliTech.git
+   https://github.com/BheezPen/Team_IntelliTech_DATICAN_Competition.git
+
+   ```
+
+   ```bash
    cd screenerplus
    ```
 
@@ -60,15 +70,6 @@ See ScreenerPlus app [screenshots here](./ScreenerPlus_apk_by_Team_IntelliTech/s
 
    ```
 
-3. **Add the TensorFlow Lite model:**
-
-   Place your `malaria_AI_model.tflite` file in the `assets` directory.
-
-4. **Run the application:**
-
-   ```bash
-   flutter run
-   ```
 
 ### Usage
 
