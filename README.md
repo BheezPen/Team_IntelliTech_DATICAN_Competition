@@ -1,5 +1,7 @@
----
 
+<p align="center">
+  <img alt="App Designs" height="100" width="300" src="/ScreenerPlus_apk_by_Team_IntelliTech/screenshots/screenplus_shots.jpg" />
+</p>
 # ScreenerPlus Malaria Detector App
 
 ScreenerPlus is a Flutter application that utilizes a deep learning model to detect malaria from blood smear images. This app allows users to either capture an image using the camera or pick an image from the gallery, process it, and then determine whether the image is positive or negative for malaria.
