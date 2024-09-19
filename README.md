@@ -26,6 +26,10 @@ Download the APK [here](./ScreenerPlus_apk_by_Team_IntelliTech/screenerplus.apk)
 
 ## Screenshots
 See ScreenerPlus app [screenshots here](./ScreenerPlus_apk_by_Team_IntelliTech/screenshots/)
+<p align="center">
+   <img alt="App Designs" height="100" width="300" src="/ScreenerPlus_apk_by_Team_IntelliTech/screenshots/IMG-20240627-WA0072.jpg" />
+   <img alt="App Designs" height="100" width="300" src="/ScreenerPlus_apk_by_Team_IntelliTech/screenshots/IMG-20240627-WA0080.jpg" />
+</p>
 
 ## Getting Started
 
